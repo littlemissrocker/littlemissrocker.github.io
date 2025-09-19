@@ -492,12 +492,13 @@
 	
 	div.product .warning
 	{
-		font-size:12px;
+		font-size:14.5px;
 		
 		color:#c33b39;
 		
 		margin-top:16px;
 		display:block;
+    float:center;
 	}
 	
 	div.product .button
@@ -618,4 +619,29 @@
 	{
 		display:none;
 	}
+
+  div.previewa
+  {
+   float:left;
+		
+		 max-width:200px;
+	   max-height:100px;
+
+		 margin:16px;
+  }
+
+  div.previewa audio
+  {
+   float:left;
+		
+		 max-width:260px;
+	   max-height:60px;
+
+		 margin:-15px;
+    margin-top:20px;
+  }
+
+  .preview audio {
+   width: 100%;
+   max-width: 100px;
 }
