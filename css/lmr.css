@@ -408,6 +408,8 @@
 		background-color:#d8d8d0;
 
 		position:relative;
+
+   margin:auto;
 		
 		font-family:Arial, Sans-Serif;
 	}	
@@ -644,4 +646,11 @@
   .preview audio {
    width: 100%;
    max-width: 100px;
-}
+  }
+
+  div.buttond
+  {
+   width:400px;
+   display:flex;
+   justify-content:center;
+  }
