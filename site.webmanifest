@@ -1,0 +1,22 @@
+{
+    "name": "Little Miss Rocker",
+    "short_name": "LMR",
+    "description": "The official site for Little Miss Rocker's ringtones, wallpapers, and mobile content.",
+    "start_url": "index.html",
+    "scope": "/",
+    "display": "standalone",
+    "theme_color": "#332f30",
+    "background_color": "#332f30",
+    "icons": [
+        {
+            "src": "images/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
