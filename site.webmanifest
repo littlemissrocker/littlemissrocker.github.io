@@ -1,8 +1,8 @@
 {
     "name": "Little Miss Rocker",
     "short_name": "LMR",
-    "description": "The official site for Little Miss Rocker's ringtones, wallpapers, and mobile content.",
-    "start_url": "index.html",
+    "description": "A Little Miss Rocker revival site.",
+    "start_url": "Index.html",
     "scope": "/",
     "display": "standalone",
     "theme_color": "#332f30",
